@@ -11,7 +11,7 @@ Welcome to the release repository for brachify. You can go to https://github.com
      width="500"/>
 <img src="Images/image-7.png" width="500">
 
-Brachify uses DICOM files to create 3D printable models for Brachytherapy plans below is a short how to for using the program. (If you would like more information please view the user guild <br> under assets in the Brachify releases)
+Brachify uses DICOM files to create 3D printable models for Brachytherapy plans below is a short how to for using the program. (If you would like more information please view the user guide <br> under assets in the Brachify releases)
 
 1) Download the most recent Brachify release from the website above https://github.com/brachify/brachify-release/releases
 
