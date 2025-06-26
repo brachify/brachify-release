@@ -32,4 +32,5 @@ Tandem Page<br>
 <img src="Images/image-6.png" width="500"/><br>
 Export Page (final model preview) <br>
 <img src="Images/image-7.png" width="500"><br>
-
+Example Reference Sheet <br>
+<img src="Images/Example Ref Sheet.png" width="500"><br>
